@@ -1,0 +1,23 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "load.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syrohei/storm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syrohei/storm/issues"
+  },
+  "homepage": "https://github.com/syrohei/storm#readme",
+  "dependencies": {
+    "jfs": "^0.2.6",
+    "web3": "^0.17.0-alpha"
+  }
+}
